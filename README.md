@@ -1,4 +1,4 @@
-# lawyer_disclaimer_template
+# lawyer_disclaimer
 autonomous law disclosure and disclaimer 
 
 ***DISCLAIMERS FOLLOW: Please review and be advised of the following:*** 
