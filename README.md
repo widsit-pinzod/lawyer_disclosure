@@ -24,6 +24,8 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
 
 * LeXpunk/L3X disclosure
+* AlloyX
+* Thallo
 
 I hold no non-immaterial amounts (by portfolio %) of various stablecoins 
 
